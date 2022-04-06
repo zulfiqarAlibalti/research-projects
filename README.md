@@ -14,12 +14,12 @@ on the basis on basis different features which are directly impact on Children's
 models. 
     <br />
 <!--     <strong>Site URL / Here is my portfolio website » </strong> -->
-    <a>Support Vector Machine</a>
-    <a>Random Forest</a>
-    <a>LightGBM</a>
-  <a>Arificial Neural network</a>
-  <a>Adaptive Boosting</a>
-  <a>Naive Bayes Classifier</a>
+    - Support Vector Machine
+    - Random Forest
+    LightGBM
+  - Arificial Neural network
+  - Adaptive Boosting
+   - Naive Bayes Classifier
     <br />
     <br />
     <a href="https://zulfiqarAlibalti.com">Here is my github link</a>
